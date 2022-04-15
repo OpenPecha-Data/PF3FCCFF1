@@ -1,0 +1,29 @@
+id: PF3FCCFF1
+initial_creation_type: input
+source_metadata:
+  title: Prajñāpāramitā upadeśa (block print), colophon excerpt
+  author: rong ston shes bya kun rig
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-19); revision in process, thematic TEI
+    markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Dan Martin (dm)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1923
+  bases:
+    5cc4:
+      title: Prajñāpāramitā upadeśa (block print), colophon excerpt
+      order: 1
+      base_file: 5cc4.txt
+created_at: '2022-04-15T18:51:01.109920'
+last_modified_at: '2022-04-15T18:51:01.109926'
+quality: null
